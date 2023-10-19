@@ -1,7 +1,7 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: Sam Rodkey
+url: samrodkey.github.io #yoururl
+title: Blog
+description: Sam Rodkey
 twitter:
   username: #yourusername
   card: summary
@@ -10,7 +10,7 @@ author:
   twitter: #yourusername
   name: #yourusername
   avatar:
-  email: #youremail
+  email: sam@samrodkey.com #youremail
   url: #yoururl
 permalink: pretty
 
